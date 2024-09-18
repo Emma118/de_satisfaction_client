@@ -24,6 +24,6 @@ Etape3: Consommation de la donnée
 
 Etape4: Mise en production
 
-Etape5: Automatisation de flux de donnée
+Etape5: Automatisation de flux de donnée.
 
 Etape6: Rapport
